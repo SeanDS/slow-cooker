@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Wurth_744822301
+D Wurth 744822301 common mode choke
+K dual common mode choke leaded inductor line filter
+$ENDCMP
+#
+#End Doc Library

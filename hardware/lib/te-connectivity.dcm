@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DPDT
+D Dual pole, dual throw switch
+K switch DPDT
+$ENDCMP
+#
+$CMP IMC03GR
+D Single pole, dual throw switch
+K switch SPDT
+$ENDCMP
+#
+#End Doc Library

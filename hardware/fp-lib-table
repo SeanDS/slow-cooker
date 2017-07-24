@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SMPS_RS)(type KiCad)(uri "$(KIPRJMOD)/lib/SMPS_RS.pretty")(options "")(descr ""))
+  (lib (name Relays_ThroughHole_TE_Connectivity)(type KiCad)(uri "$(KIPRJMOD)/lib/Relays_ThroughHole_TE_Connectivity.pretty")(options "")(descr ""))
+)
