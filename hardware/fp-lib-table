@@ -1,4 +1,8 @@
 (fp_lib_table
   (lib (name SMPS_RS)(type KiCad)(uri "$(KIPRJMOD)/lib/SMPS_RS.pretty")(options "")(descr ""))
   (lib (name Relays_ThroughHole_TE_Connectivity)(type KiCad)(uri "$(KIPRJMOD)/lib/Relays_ThroughHole_TE_Connectivity.pretty")(options "")(descr ""))
+  (lib (name Board_Outlines)(type KiCad)(uri "$(KIPRJMOD)/lib/Board_Outlines.pretty")(options "")(descr ""))
+  (lib (name Capacitors_ThroughHole_Kemet)(type KiCad)(uri "$(KIPRJMOD)/lib/Capacitors_ThroughHole_Kemet.pretty")(options "")(descr ""))
+  (lib (name Choke_Common-Mode_Epcos)(type KiCad)(uri "$(KIPRJMOD)/lib/Choke_Common-Mode_Epcos.pretty")(options "")(descr ""))
+  (lib (name Symbols_HV)(type KiCad)(uri "$(KIPRJMOD)/lib/Symbols_HV.pretty")(options "")(descr ""))
 )

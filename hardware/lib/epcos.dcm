@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EPCOSB82730U
+D Epcos B82730U3102A020 common mode choke
+K dual, common, mode, choke, inductor
+$ENDCMP
+#
+#End Doc Library

@@ -1,4 +1,4 @@
-update=Sun 23 Jul 2017 23:50:10 BST
+update=Tue 08 Aug 2017 22:21:06 BST
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,4 @@ LibName30=lib/SSR_Crydom
 LibName31=lib/SMPS_RS
 LibName32=lib/te-connectivity
 LibName33=lib/wurth
+LibName34=lib/epcos
