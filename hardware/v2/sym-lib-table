@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Converter_ACDC)(type Legacy)(uri ${KIPRJMOD}/lib/Converter_ACDC.lib)(options "")(descr ""))
+)

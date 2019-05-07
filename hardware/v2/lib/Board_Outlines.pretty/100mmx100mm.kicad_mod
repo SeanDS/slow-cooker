@@ -1,0 +1,13 @@
+(module 100mmx100mm (layer F.Cu) (tedit 5CD1B7C7)
+  (descr "Outline, 100mmx100mm")
+  (fp_text reference Ref** (at 5 10) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.15)))
+  )
+  (fp_text value 100mmx100mm (at 5 5) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.15)))
+  )
+  (fp_line (start 100 -100) (end 100 0) (layer Edge.Cuts) (width 0.025))
+  (fp_line (start 0 -100) (end 100 -100) (layer Edge.Cuts) (width 0.025))
+  (fp_line (start 0 0) (end 0 -100) (layer Edge.Cuts) (width 0.025))
+  (fp_line (start 0 0) (end 100 0) (layer Edge.Cuts) (width 0.025))
+)

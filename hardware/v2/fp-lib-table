@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name SMPS_Mornsun)(type KiCad)(uri ${KIPRJMOD}/lib/SMPS_Mornsun.pretty)(options "")(descr ""))
+  (lib (name Choke_Common-Mode_Epcos)(type KiCad)(uri ${KIPRJMOD}/lib/Choke_Common-Mode_Epcos.pretty)(options "")(descr ""))
+  (lib (name Capacitors_ThroughHole_Kemet)(type KiCad)(uri ${KIPRJMOD}/lib/Capacitors_ThroughHole_Kemet.pretty)(options "")(descr ""))
+  (lib (name Fuse_Holders_Wurth)(type KiCad)(uri ${KIPRJMOD}/lib/Fuse_Holders_Wurth.pretty)(options "")(descr ""))
+  (lib (name Board_Outlines)(type KiCad)(uri ${KIPRJMOD}/lib/Board_Outlines.pretty)(options "")(descr ""))
+)
